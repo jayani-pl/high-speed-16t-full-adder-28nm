@@ -147,7 +147,7 @@ v11 a gnd! dc=0 pulse ( 0 1.05 0 0.1u 0.1u 5u 10u )
 [Lakshmi Jayani Penumarthy](mailto:lakshmi.19bec7007@vitap.ac.in), VIT-AP University
 
 ## **Acknowledgement**
-I would like to extend my gratitude to Mr. Kunal Ghosh - Founder, VLSI System Design Corporation Pvt. Ltd. and Mr. Chinmaya Panda - IIT Hyderabad, for their continued support and guidance throughout the duration of this Hackathon. Further, thanks to the Synopsys Team for giving me an opportunity to work with the industry-grade tools and avail them on the Cloud platform. This Cloud-based Analog IC design hackathon has been a remarkable experience, all due to the efforts of the organizing teams at VSD and IIT Hyderabad alike.   
+I would like to extend my gratitude to **Mr. Kunal Ghosh** - Founder, VLSI System Design Corporation Pvt. Ltd. and **Mr. Chinmaya Panda** - IIT Hyderabad, for their continued support and guidance throughout the duration of this Hackathon. Further, thanks to the **Synopsys Team** for giving me an opportunity to work with the industry-grade tools and avail them on the Cloud platform. This **Cloud-based Analog IC design hackathon** has been a remarkable experience, all due to the efforts of the organizing teams at **VSD and IIT Hyderabad** alike.   
 
 ## **References**
 - D. K. Jena, R. K. Lal, R. Malik, A. Sen and J. K. Geda, "An improved low power high speed Full Adder design with 28nm for extended region of operation," _2014 International Conference on Electronics, Communication and Computational Engineering (ICECCE)_, 2014, pp. 137-141.
