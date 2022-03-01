@@ -15,10 +15,10 @@ The circuit utilizes 16 transistors to realize the full adder. It mainly can be 
 The most important part of the circuit is the XOR/XNOR generator module, which performs the XOR and XNOR logic operations on the inputs A and B. Subsequently, the generated complementary outputs are applied to the sum and carry output modules. To enhance the working of the module, a pair of PMOS transistors have been connected in series between the XNOR and supply nodes which reduce the delay and drive a stronger output. By adjusting the aspect ratios of the transistors in the sum module, it can be used to provide minimum gate delay even at a low supply. The carry output module takes both the outputs of the first module and while it can be implemented with two transistors, using an additional pair of complementary transistors allows for a full level swing at the output. To minimize the channel length, the width can be adjusted to operate in 28nm technology.
 
 ## **Reference Circuit**
-[image](https://drive.google.com/file/d/1e907JlxxsMwxBq_byi6nVdxgxY9tS87c/view?usp=sharing)
+![image](https://drive.google.com/file/d/1e907JlxxsMwxBq_byi6nVdxgxY9tS87c/view?usp=sharing)
 
 ## **Reference Waveform**
 
 ## **Tools Used for Simulation**
 ### **Synopsys Custom Compiler**
-The Synopsys Custom Compiler design environment is an industry standard solution for full-custom analog, custom digital, and mixed-signal IC design. 
+The Synopsys Custom Compiler design environment is an industry standard solution for full-custom analog, custom digital, and mixed-signal IC design. Custom Compiler provides design entry, simulation management and analysis, and custom layout editing features. For the purposes of this design implementation, Prime 
