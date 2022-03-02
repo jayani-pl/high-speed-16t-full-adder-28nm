@@ -1,5 +1,5 @@
 # **High Speed 16T Full Adder Design using 28nm CMOS Technology**
-Design and Simulation of a full adder using transmission gate logic, in 28nm technology using 15 transistors.
+Design and Simulation of a full adder using transmission gate logic, in 28nm technology using 16 transistors.
 
 ## **Abstract**
 This design has an objective to implement a full adder using transmission gate logic, in 28nm technology. Contrary to the conventional adder designs, this design has XOR/XNOR nodes which improve the circuit to operate with lesser delay. The model provides full swing even at smaller operating voltages by minimizing threshold loss observed in circuits with low supply voltages, specifically when the feature size is 28nm or less. By implementing Transmission Gate Logic, the circuit results in reduced leakage power. The circuit is simulated using Synopsys Custom Compiler tool for synthesis. 
